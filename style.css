@@ -262,7 +262,7 @@ h1 > span{
         background-size: 100%;
     }
     .hero__wrapper {
-        padding-bottom: 60px;
+        padding-bottom: 200px;
     }
 
     .hero__text {
@@ -312,6 +312,7 @@ h1 > span{
 
     .hero__image {
         translate: 0 -174px;
+        
     }
 
     .hero__headline > br {
